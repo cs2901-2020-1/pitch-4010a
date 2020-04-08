@@ -5,3 +5,4 @@
 |Fernando De Los Heros | 201510239 |
 |Jonathan Hoyos | 201720065 |
 |Francesco Uccelli | 201810253 |
+Lider: Fernando De los Heros
