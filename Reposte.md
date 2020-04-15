@@ -10,7 +10,7 @@ Nos motiva el poder contribuir con nuestro granito de arena en el mejoramiento d
 *En 2017 el 50% de los peruanos tenia acceso internet ( Proablemente sea mayor ahora )
 
 ## 4. Solución
-
+Nuestro proyecto se llama “Educhay”;  una plataforma web gratuita que se encargará principalmente de ser el medio que conecte a los profesores y sus alumnos fuera del salón de clases. En ella pretendemos brindar una colección de videos y contenido de todos los temas relacionados con Ciencia, Matemática y Tecnología estrechamente relacionados con la currícula de los cursos para 3º, 4º y 5º año de secundaria. Inicialmente contará con videos recopilados de fuentes altamente recomendables de internet, pero conforme se avance el proyecto planificamos implementar la subida de videos por parte de los profesores afiliados. Con esto último buscamos que se genere una sana competencia por el reconocimiento  en la elaboración y calidad de contenido entre los profesores, de manera que se de una  situación ganar-ganar entre ellos y los usuarios;  el alumnado.
 
 ## 5. Competencia
 * Khan Academy(Elearning, no se enfoca a la misma área que nosotros pero si tiene cursos de matematica, más no estan orientados a la malla curricular de peru) 
