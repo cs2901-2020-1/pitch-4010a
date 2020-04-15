@@ -6,12 +6,12 @@ Nos motiva el poder contribuir con nuestro granito de arena en el mejoramiento d
 
 ## 3. Mercado
 * Tamaño de mercado: Jóvenes y niños entre 13 y 17 años que se encuentren en secundaria, primaria o preparándose para ingresar a la universidad. Por otro lado, la solución tambien debería interesar a profesores y escuelas que quieran subir contenido para obtener validación.
-*En el Perú hay 8,728,876 estudiantes y 558,657 de docentes > 3’492,498 en primaria y 2’534,338
-*En 2017 el 50% de los peruanos tenia acceso internet ( Proablemente sea mayor ahora )
+* En el Perú hay 8,728,876 estudiantes y 558,657 de docentes > 3’492,498 en primaria y 2’534,338.
+* En 2017 el 50% de los peruanos tenia acceso internet (probablemente sea mayor en la actualidad).
 
 ## 4. Solución
 Nuestro proyecto se llama “Educhay”; una plataforma web gratuita que se encargará principalmente de ser el medio que conecte a los profesores y sus alumnos fuera del salón de clases. En ella pretendemos brindar una colección de videos y contenido de todos los temas relacionados con Ciencia, Matemática y Tecnología estrechamente relacionados con la currícula de los cursos para 3º, 4º y 5º año de secundaria. Inicialmente contará con videos recopilados de fuentes altamente recomendables de internet, pero conforme se avance el proyecto planificamos implementar la subida de videos por parte de los profesores afiliados. Con esto último buscamos que se genere una sana competencia por el reconocimiento  en la elaboración y calidad de contenido entre los profesores, de manera que se de una situación ganar-ganar entre ellos y los usuarios; el alumnado.
 
 ## 5. Competencia
-* Khan Academy(Elearning, no se enfoca a la misma área que nosotros pero si tiene cursos de matematica, más no estan orientados a la malla curricular de peru) 
-* Check education del Minedu(Básicamente la misma plataforma  pero un solo profesor y está limitado el contenido a matematicas  y comunicación. Al tener la opcion de tener agregación de contenido comunitario, superamos esa valla)
+* Khan Academy (Plataforma E-learning; no se enfoca en la misma área que nosotros pero si tiene cursos de matemática, más no están orientados a la malla curricular de Perú). 
+* Check education - Minedu (Técnicamente la misma plataforma pero para un solo profesor y el contenido está limitado a los cursos de matemáticas y comunicación. Al contar con la opción de tener agregación de contenido comunitario, superamos esa valla).
